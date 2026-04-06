@@ -21,7 +21,9 @@ Usage:
 run with --fix option to fix critical issues found 
 
 
-use Streamlit for web front end. Run:
+use Streamlit for web front end. 
 
 
-streamlit run mist_streamlit_audit_app.py
+Usage:
+
+    streamlit run mist_streamlit_audit_app.py
