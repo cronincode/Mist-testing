@@ -1,4 +1,5 @@
 These are tools to audit your Mist Org and configuration to help make sure it meets best practices
+
 Requirements:
 
     pip install requests
@@ -18,3 +19,9 @@ Usage:
     python mist_org_audit.py --csv --html  # both
     
 run with --fix option to fix critical issues found 
+
+
+use Streamlit for web front end. Run:
+
+
+streamlit run mist_streamlit_audit_app.py
