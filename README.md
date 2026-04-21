@@ -1,4 +1,4 @@
-These are tools to audit your Mist Org and configuration to help make sure it meets best practices
+These are tools to audit your Mist Org and configuration to help make sure it meets best practices.  Many issues that result in poor performance are the result of misconfigured or not optimal settings.  This can impact networks and result in time lost troubleshooting issues that could be automatically be detected and self-corrected.  
 
 Requirements:
 
