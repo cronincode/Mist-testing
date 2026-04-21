@@ -6,6 +6,20 @@ Requirements:
  
 Usage:
 
+Download and unzip "mist_audit.zip" file
+
+
+Usage:
+
+use Streamlit for web front end. 
+
+    streamlit run mist_streamlit_audit_app.py
+
+    
+Usage:
+
+Use terminal and python directly (no front end)
+
     export MIST_API_TOKEN="your_token_here"
     
     export MIST_ORG_ID="your_org_id_here"   # optional, auto-discovered if omitted
@@ -21,9 +35,6 @@ Usage:
 run with --fix option to fix critical issues found 
 
 
-use Streamlit for web front end. 
 
 
-Usage:
 
-    streamlit run mist_streamlit_audit_app.py
